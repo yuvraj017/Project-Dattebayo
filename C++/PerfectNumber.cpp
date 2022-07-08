@@ -7,7 +7,6 @@
 */
 
 #include<iostream>
-
 using namespace std;
 
 int main()
@@ -20,12 +19,10 @@ int main()
  while(i<num)
  {
   if(num%i==0)
-   sum+=i;
-  
+   sum+=i; 
   i++;
  }
  
-
  if(sum==num)
   cout<<i<<" is a Perfect Number\n"; 
  else
