@@ -1,7 +1,6 @@
 import java.util.*;
 import static java.lang.System.*;
 
-
 class InsSort
 {
  public static void main(String...arg)
