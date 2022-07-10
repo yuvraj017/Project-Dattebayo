@@ -3,7 +3,7 @@
 #include<iostream>
 using namespace std;
 
-int LinSearch(int arr[],int size,int val)
+int linSearch(int arr[],int size,int val)
 {
  int i=-1;
  for(int j=0;j<size;j++)
