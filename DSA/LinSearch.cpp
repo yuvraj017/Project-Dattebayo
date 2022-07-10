@@ -17,13 +17,7 @@ int LinSearch(int arr[],int size,int val)
 
 int main()
 {
- int arr[5];
- for(int i=0;i<5;i++)
- {
-  cout<<"Enter Item["<<i+1<<"] : ";
-  cin>>arr[i];
- }
-
+ int arr[]={5,6,2,4,10};
  int val;
  cout<<"\nEnter Item to find : ";
  cin>>val;
