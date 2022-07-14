@@ -3,7 +3,6 @@ import java.util.*;
 class MergeSort
 {
 /*-----------------------mergeSort()------------------------*/
-
  static int[] mergeSort(int x[],int y[])
  {
   int z[]=new int[x.length+y.length];
@@ -29,7 +28,6 @@ class MergeSort
  }
 
 /*-----------------------Main method-----------------------*/
-
  public static void main(String...arg)
  {
   int x[]={2,4,10,8,6};
