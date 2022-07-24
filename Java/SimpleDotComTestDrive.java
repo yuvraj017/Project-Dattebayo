@@ -29,7 +29,7 @@ class SimpleDotCom
  
  public String checkYourself(String stringGuess)
  {
-  int guess=Integer.parseInt(stringGuess);          //convert String ti Int...
+  int guess=Integer.parseInt(stringGuess);          //convert String to Int...
   String result="miss";
   
   for(int cell : locCells)
